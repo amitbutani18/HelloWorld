@@ -19,6 +19,7 @@ sum=sum+r*r*r;
 	System.out.println("It is an armstrong number");
 	else
 	System.out.println("Not an armstrong number");
+	 System.out.println("Hello");
 }
 }	
 	
